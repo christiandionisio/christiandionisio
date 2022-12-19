@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Christian Dionisio!
 
-I work as a Backend Developer with microservices design patterns (Spring Cloud). I'm based in Lima, Peru.
+I work as a Backend Developer with microservices architecture (Spring Cloud). I'm based in Lima, Peru.
 
 I'm also a passionate self-taught full stack web developer and a freelance software engineer. I take great care in the experience, architecture, and code quality of the things I build. ✨
 
@@ -9,7 +9,7 @@ I'm also a passionate self-taught full stack web developer and a freelance softw
 - Currently improving my React skills.<br />
 - Any freelance work? contact me, [email](mailto:christiandionisio9432@gmail.com) :)
 
-### Languages and tools: 
+### Languages and tools 💻
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,typescript,angular,react,git,mongodb,postgresql,mysql,aws,docker,jenkins,grafana&perline=7)](https://skillicons.dev)
 
